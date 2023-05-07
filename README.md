@@ -1,5 +1,5 @@
 # WhisperLab
-Transcendiendo Idiomas: Transcriptor y Traductor de Vídeos Automatizado
+Transcendiendo Idiomas: Transcriptor (Subtitulador) y Traductor de Vídeos Automatizado
 
 Transcriptor y Traductor de Vídeos
 ==================================
