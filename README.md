@@ -4,7 +4,7 @@ Transcendiendo Idiomas: Transcriptor y Traductor de Vídeos Automatizado
 Transcriptor y Traductor de Vídeos
 ==================================
 
-Este repositorio contiene un script que utiliza la API de OpenAI Whisper para transcribir archivos de vídeo, y luego traduce los subtítulos generados al español utilizando la biblioteca Googletrans. Los subtítulos se guardan en formato VTT.
+Este repositorio contiene un script que utiliza la API (Gratuita) de OpenAI Whisper para transcribir archivos de vídeo, y luego traduce los subtítulos generados al español utilizando la biblioteca Googletrans. Los subtítulos se guardan en formato VTT.
 
 Requisitos
 ----------
