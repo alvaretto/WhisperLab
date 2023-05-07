@@ -33,6 +33,12 @@ Uso
 2.  Los archivos de vídeo en formato .mp4 deben ser almacenados en una carpeta llamada "videos" en su Google Drive.
 3.  Después de ejecutar el script, los subtítulos en inglés serán guardados en una carpeta llamada "SubtítulosEN" y los subtítulos traducidos al español serán guardados en una carpeta llamada "SubtítulosES", ambas carpetas estarán ubicadas en su Google Drive.
 
+Información adicional
+--------------
+
+(Youtube)[https://www.youtube.com/watch?v=jgSk01fWkjg]
+
+
 Contribuciones
 --------------
 
