@@ -36,7 +36,7 @@ Uso
 Información adicional
 --------------
 
-(Youtube)[https://www.youtube.com/watch?v=jgSk01fWkjg]
+[Youtube](https://www.youtube.com/watch?v=jgSk01fWkjg)
 
 
 Contribuciones
