@@ -47,5 +47,5 @@ Las contribuciones son bienvenidas. Por favor, siéntase libre de enviar un Pull
 Licencia
 --------
 
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE](https://github.com/alvaretto/WhisperLab/blob/main/LICENSE.txt) para más detalles.
 
